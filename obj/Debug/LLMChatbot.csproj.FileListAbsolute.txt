@@ -1,0 +1,5 @@
+C:\Users\OGUZHAN\OneDrive\Desktop\LLMChatbot\obj\Debug\LLMChatbot.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\LLMChatbot\obj\Debug\LLMChatbot.Form1.resources
+C:\Users\OGUZHAN\OneDrive\Desktop\LLMChatbot\obj\Debug\LLMChatbot.Properties.Resources.resources
+C:\Users\OGUZHAN\OneDrive\Desktop\LLMChatbot\obj\Debug\LLMChatbot.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\LLMChatbot\obj\Debug\LLMChatbot.csproj.CoreCompileInputs.cache
